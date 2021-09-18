@@ -4,4 +4,4 @@ I am a commerce student who upon exploring some of the programming languages (it
 A little fun fact about me -<br /> 
 I have never taken any tuitions in my entire life. I was a rank holder in 12th boards in my school and I achieved that through self-study, and that's what I believe in, self-study. <br /> 
 
-Please find all my projects here in this repository. <br /> 
+ 
